@@ -1,0 +1,46 @@
+# EEG Biometric Authentication - Publication Ready
+# Requirements file for reproducible research
+
+# Core Scientific Computing
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.11.1
+
+# Machine Learning
+scikit-learn==1.3.0
+xgboost==1.7.6
+
+# Deep Learning (Optional - for future extensions)
+torch==2.0.1
+torchvision==0.15.2
+
+# Signal Processing and Entropy Analysis
+antropy==0.1.9
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Progress Tracking and Utilities
+tqdm==4.65.0
+psutil==5.9.5
+
+# Data Handling
+pickle-mixin==1.0.2
+
+# Statistical Analysis
+statsmodels==0.14.0
+
+# Optional: Jupyter Notebook Support
+jupyter==1.0.0
+ipykernel==6.25.0
+ipywidgets==8.0.7
+
+# Development and Testing (Optional)
+pytest==7.4.0
+black==23.7.0
+flake8==6.0.0
+
+# Documentation (Optional)
+sphinx==7.1.2
+sphinx-rtd-theme==1.3.0
