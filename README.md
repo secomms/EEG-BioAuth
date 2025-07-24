@@ -6,24 +6,20 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!--
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/EEG-Biometric-Authentication/blob/main/example_usage.ipynb)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Tests](https://github.com/yourusername/EEG-Biometric-Authentication/actions/workflows/tests.yml/badge.svg)](https://github.com/yourusername/EEG-Biometric-Authentication/actions)
 [![Documentation Status](https://readthedocs.org/projects/eeg-biometric-auth/badge/?version=latest)](https://eeg-biometric-auth.readthedocs.io/en/latest/?badge=latest)
-
+-->
 </div>
 
 ## 🌟 Publication-Ready Research Implementation
 
-<div align="center">
-  <img src="https://github.com/yourusername/EEG-Biometric-Authentication/raw/main/assets/eeg_biometrics_teaser.png" alt="EEG Biometric Authentication" width="80%"/>
-  
-  *Visualization of EEG signal processing and classification pipeline*
-</div>
 
-This repository contains a comprehensive, publication-ready implementation of EEG-based biometric authentication using the AMIGOS dataset. The code has been refactored for clarity, reproducibility, and scientific rigor.
+This repository contains an implementation of EEG-based biometric authentication. The code has been refactored for clarity, and reproducibility.
 
 ## 📋 Table of Contents
 
