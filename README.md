@@ -101,7 +101,7 @@ This research investigates the effectiveness of various machine learning classif
 
 4. **Verify installation**
    ```bash
-   python eeg_biometrics_amigos_publication_ready.py
+   python eeg_biometrics_amigos.py
    ```
 
 ## 📖 Usage
