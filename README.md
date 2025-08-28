@@ -31,8 +31,6 @@ This repository contains an implementation of EEG-based biometric authentication
 - [Methodology](#methodology)
 - [Results](#results)
 - [Reproducibility](#reproducibility)
-- [Citation](#citation)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## 🔬 Overview
@@ -281,31 +279,9 @@ python eeg_biometrics_amigos_publication_ready.py
 # Results should be identical across runs
 ```
 
-## 📚 Citation
 
-If you use this code in your research, please cite:
 
-```bibtex
-@article{eeg_biometrics_amigos_2024,
-  title={EEG-Based Biometric Authentication Using AMIGOS Dataset: A Comprehensive Machine Learning Approach},
-  author={[Author Name]},
-  journal={[Journal Name]},
-  year={2024},
-  publisher={[Publisher]},
-  doi={[DOI]},
-  url={[URL]}
-}
-```
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these guidelines:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
 
 ### Development Guidelines
 
@@ -329,9 +305,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or collaborations:
 
-- **Email**: [your.email@institution.edu]
-- **GitHub Issues**: [Repository Issues Page]
-- **Research Gate**: [Your Research Gate Profile]
+- **Email**: [n.abo@staff.univpm.it]
 
 ---
 
@@ -369,13 +343,3 @@ The code includes several optimization features:
 2. **CUDA Errors**: Ensure proper GPU drivers and PyTorch installation
 3. **Import Errors**: Verify all dependencies are installed
 4. **Data Format Errors**: Check AMIGOS dataset format compatibility
-
-**Getting Help:**
-
-1. Check the [Issues](issues) page for known problems
-2. Review the documentation thoroughly
-3. Contact the maintainers for research-specific questions
-
----
-
-*This README was generated as part of a publication-ready research package. Last updated: 2024*
